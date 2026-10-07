@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1_Score
+CatBoost,0.9615,0.9617,0.9615,0.9614
+LightGBM,0.952,0.9527,0.952,0.952
+XGBoost,0.9425,0.9429,0.9425,0.9423
+Gradient Boosting,0.9415,0.9427,0.9415,0.9407
+Random Forest,0.926,0.9294,0.926,0.9243
